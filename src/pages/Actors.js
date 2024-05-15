@@ -1,16 +1,16 @@
 import { useEffect, useState } from "react";
 
-function Home() {
+function Actors() {
   return (
     <>
       <header>
         {/* What component should go here? */}
       </header>
       <main>
-        {/* Info goes here! */}
+        {/* Actor info here! */}
       </main>
     </>
   );
 };
 
-export default Home;
+export default Actors;

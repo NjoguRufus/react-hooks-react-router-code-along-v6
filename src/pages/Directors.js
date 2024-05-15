@@ -1,16 +1,16 @@
 import { useEffect, useState } from "react";
 
-function Home() {
+function Directors() {
   return (
     <>
       <header>
         {/* What component should go here? */}
       </header>
       <main>
-        {/* Info goes here! */}
+        {/* Director info here! */}
       </main>
     </>
   );
 };
 
-export default Home;
+export default Directors;
